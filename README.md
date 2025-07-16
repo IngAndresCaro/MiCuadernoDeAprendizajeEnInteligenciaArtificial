@@ -25,6 +25,12 @@ Este repositorio contiene mis notas personales, aprendizajes, ejemplos y concept
 - Tipos de IA: débil, fuerte, general
 - Diferencia entre IA, ML y Deep Learning
 
+### 1.1 Uso de Inteligencia Artificial en Finanzas Personales
+
+- La PC ya es algo del día a día como ahora la IA va entrar a los mundo laborales
+- Utilizando chatGPT con un Excel podemos analizar la data en este, esto utilizamos para mejorar ingresos gastos gastos no necesarios, gastos predecibles y ahorro
+- Con Pronts podemos darle ordenes para que tengamos información segun la necesidad realizando una converzación 
+
 ## 2. 📊 Machine Learning
 
 - Aprendizaje supervisado vs no supervisado vs por refuerzo
